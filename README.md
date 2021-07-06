@@ -1,5 +1,7 @@
 # XMM7360 modem to USB
 
+这个库的主要目的是让Thinkpad x1 carbon 2020款在linux下用4G上网，效果不是很稳定，但是基本可用。
+
 This is basically a kernel module version of the python script `xmm2usb` found
 in [James Wah's repository](https://github.com/abrasive/xmm7360). Please be
 aware that this is a hacky approach that results the device to be reported by
